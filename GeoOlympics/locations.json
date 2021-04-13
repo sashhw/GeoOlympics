@@ -1,0 +1,57 @@
+{ "locations": [
+{
+        "id": 0,
+        "name": "Vancouver",
+        "latitude": 49.26018706362073,
+        "longitude": -123.11485290527344,
+        "year": "2010",
+        "season": "Winter",
+        "image": "vancouver"
+    },
+    {
+        "id": 1,
+        "name": "London",
+        "latitude": 51.50361379162684,
+        "longitude": -0.127716064453125,
+        "year": "2012",
+        "season": "Summer",
+        "image": "london"
+    },
+    {
+        "id": 2,
+        "name": "Sochi",
+        "latitude": 43.58039085560784,
+        "longitude": 39.7210693359375,
+        "year": "2014",
+        "season": "Winter",
+        "image": "sochi"
+    },
+    {
+        "id": 3,
+        "name": "Rio",
+        "latitude": -22.933100746980394,
+        "longitude": -43.23944091796875,
+        "year": "2016",
+        "season": "Summer",
+        "image": "rio"
+    },
+    {
+        "id": 4,
+        "name": "PyeongChang",
+        "latitude": 37.385435182627226,
+        "longitude": 128.39035034179688,
+        "year": "2018",
+        "season": "Winter",
+        "image": "pyeong"
+    },
+    {
+        "id": 5,
+        "name": "Tokyo",
+        "latitude": 35.67291625588,
+        "longitude": 139.7076416015625,
+        "year": "2020",
+        "season": "Summer",
+        "image": "tokyo"
+    }
+]
+}
